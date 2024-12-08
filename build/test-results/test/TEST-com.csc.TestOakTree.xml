@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestOakTree" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-12-08T20:21:50" hostname="Dakotas-Laptop.local" time="0.016">
+  <properties/>
+  <testcase name="testright()" classname="com.csc.TestOakTree" time="0.01"/>
+  <testcase name="testleft()" classname="com.csc.TestOakTree" time="0.001"/>
+  <testcase name="testnode()" classname="com.csc.TestOakTree" time="0.001"/>
+  <testcase name="testtree()" classname="com.csc.TestOakTree" time="0.001"/>
+  <testcase name="testsquirrel()" classname="com.csc.TestOakTree" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
